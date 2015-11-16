@@ -1,0 +1,7 @@
+2
+2
+2
+[<node.Node instance at 0x10c08a170>, <node.Node instance at 0x10c08a0e0>]
+[<node.Node instance at 0x10c08a1b8>, <node.Node instance at 0x10c08a128>]
+[]
+2
